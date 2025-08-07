@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TransactionFilter\bin\Debug\TransactionFilter.exe.config
+C:\Users\HP\source\repos\TransactionFilter\bin\Debug\TransactionFilter.exe
+C:\Users\HP\source\repos\TransactionFilter\bin\Debug\TransactionFilter.pdb
+C:\Users\HP\source\repos\TransactionFilter\obj\Debug\TransactionFilter.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TransactionFilter\obj\Debug\TransactionFilter.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TransactionFilter\obj\Debug\TransactionFilter.exe
+C:\Users\HP\source\repos\TransactionFilter\obj\Debug\TransactionFilter.pdb
